@@ -1,0 +1,8 @@
+venv
+.idea/
+.vscode/
+myvenv/
+RU.xlsx
+EN.xlsx
+geckodriver.exe
+geckodriver.log
